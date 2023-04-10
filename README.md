@@ -22,5 +22,5 @@ If you are interested in contributing to this project, please fork the repositor
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-This project was inspired by a love of mathematics and a desire to learn more about prime numbers. Special thanks to the creators of the Python programming language, as well as the developers of the various libraries used in this project.
+## Acknowledgments
+This project was inspired by a love of mathematics and a desire to learn more about prime numbers.
