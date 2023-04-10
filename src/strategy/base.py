@@ -28,7 +28,5 @@ class PrimeStrategy(ABC):
     
     def __init__(self, start: int, end: int):
         self.prime_map = [False, False] + [True] * (end - 1)
-        if start < 2:
-            raise ValueError("`start` must be more than 1")
         self.start = start
         self.end = end
